@@ -1,0 +1,9 @@
+streamlit>=1.38
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+anthropic>=0.40
+requests>=2.32
+pydantic>=2.8
+Pillow>=10.4
+python-dotenv>=1.0
