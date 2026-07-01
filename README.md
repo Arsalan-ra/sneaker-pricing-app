@@ -3,7 +3,7 @@
 A portfolio project: upload photos of a pair of sneakers, get an AI-generated condition
 assessment, a price range backed by comparable eBay listings, and ready-to-post listing copy.
 
-**Live demo:** _(add your Streamlit Cloud URL here after deploying)_
+**Live demo:** https://sneaker-pricing-app.streamlit.app/
 
 ## What this actually is (read this first)
 
